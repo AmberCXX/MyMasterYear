@@ -5,7 +5,7 @@ Here is a place where I store my project and notes from classes. I organized the
 ### Summer ###
 
 - Predictive Modeling
-- R - Data Analytics Programming
+- Data Analytics Programming in R
 - Financial Decision Analysis
 
 ### Fall ###
