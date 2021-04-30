@@ -12,7 +12,7 @@ Here is a place where I store my project and notes from classes. I organized the
 
 - Advanced Corporation Finance
 - Investment Theory & Practice
-- Adv Predictive Modeling [link]https://github.com/AmberCXX/MyMasterYear/tree/master/Fall%20-%20Adv%20Predictive%20Modeling
+- Adv Predictive Modeling [link!](https://github.com/AmberCXX/MyMasterYear/tree/master/Fall%20-%20Adv%20Predictive%20Modeling)
 - Intro Data Management
 - Text Analysis
 
