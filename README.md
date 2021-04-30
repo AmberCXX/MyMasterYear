@@ -13,7 +13,7 @@ Here is a place where I store my project and notes from classes. I organized the
 - [Advanced Corporation Finance](https://github.com/AmberCXX/MyMasterYear/tree/master/Fall%20-%20Advanced%20Corporation%20Finance)
 - [Investment Theory & Practice](https://github.com/AmberCXX/MyMasterYear/tree/master/Fall%20-%20Investment%20Theory%20%26%20Practice)
 - [Adv Predictive Modeling](https://github.com/AmberCXX/MyMasterYear/tree/master/Fall%20-%20Adv%20Predictive%20Modeling)
-- [Intro Data Management](https://github.com/AmberCXX/MyMasterYear/tree/master/Fall%20-%20Adv%20Predictive%20Modeling)
+- [Intro Data Management](https://github.com/AmberCXX/MyMasterYear/tree/master/Fall%20-%20Intro%20Data%20Management)
 - [Text Analysis](https://github.com/AmberCXX/MyMasterYear/tree/master/Fall%20-%20Text%20Analysis)
 
 ### Spring ###
