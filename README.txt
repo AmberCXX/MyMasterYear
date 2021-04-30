@@ -2,13 +2,13 @@
 
 Here is a place where I store my project and notes from classes. I organized them by each course.
 
-## Summer
+#### Summer
 
 - Predictive Modeling
 - R - Data Analytics Programming
 - Financial Decision Analysis
 
-## Fall
+#### Fall
 
 - Advanced Corporation Finance
 - Investment Theory & Practice
@@ -16,7 +16,7 @@ Here is a place where I store my project and notes from classes. I organized the
 - Intro Data Management
 - Text Analysis
 
-## Spring
+#### Spring
 
 - Financial Technology
 - Financial Modeling
